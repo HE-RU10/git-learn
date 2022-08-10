@@ -1,7 +1,14 @@
+<<<<<<< HEAD
+=======
+add1
+>>>>>>> 8c4210e7e82fbe350556ec2deb0559a55736f75c
 <<<<<<< Updated upstream
 1
 2
 =======
 1
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 end x
+=======
+>>>>>>> 8c4210e7e82fbe350556ec2deb0559a55736f75c
